@@ -1,0 +1,45 @@
+.detail-wrapper {
+  padding: 3rem;
+}
+
+.heading {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 3rem;
+  width: 100%;
+}
+
+.heading img {
+  width: 60px;
+  height: 60px;
+}
+
+.heading h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.heading p {
+  font-size: 1.5rem;
+  margin-top: 5px;
+}
+
+.detail-wrapper ul {
+  list-style: none;
+}
+
+.detail-wrapper ul li {
+  margin-bottom: 1.5rem;
+}
+
+.detail-wrapper ul h2 {
+  font-size: 2rem;
+}
+
+.detail-wrapper ul p {
+  font-size: 1.4rem;
+  margin-top: 0.8rem;
+  width: 100%;
+}
